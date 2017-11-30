@@ -1,7 +1,7 @@
 {
   "name": "turbo-blue-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Classic turbo blue UI theme for Atom",
   "keywords": [
     "ui",
